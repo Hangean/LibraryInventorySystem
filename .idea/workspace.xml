@@ -41,6 +41,15 @@
     </persistenceIdMap>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hangean/LibraryInventorySystem.git",
+    "accountId": "483a8b89-840f-41f1-af79-f0600af30231"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="NmLTWwMe" />
   </component>
@@ -63,6 +72,7 @@
   "keyToString": {
     "CMake Application.Library_Inventory_System.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -74,6 +84,7 @@
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778371573140</updated>
-      <workItem from="1778371575285" duration="39978000" />
+      <workItem from="1778371575285" duration="40439000" />
     </task>
     <servers />
   </component>
