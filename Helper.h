@@ -1,0 +1,1 @@
+#ifndef LIBRARY_INVENTORY_SYSTEM_HELPER_H#define LIBRARY_INVENTORY_SYSTEM_HELPER_H#include <string>#include <vector>#include "LibraryInventory.h"using namespace std;vector<string> split(const string& line, char delimiter);void loadItemsFromFile(const string& fileName, LibraryInventory& libraryInventory);#endif // LIBRARY_INVENTORY_SYSTEM_HELPER_H
