@@ -57,6 +57,26 @@ int main() {
     libraryInventory.checkInItem("B001");
     cout << endl;
 
+    //swap items
+    cout << "----------------------------------------" << endl;
+    cout << "             Swapping Items             " << endl;
+    cout << "----------------------------------------" << endl;
+    cout << "Swapping shelf 0 compartment 0 <-> shelf 0 compartment 1..." << endl;
+    libraryInventory.swapItems(0, 0, 0, 1);
+    cout << endl;
+
+    cout << "After swap:" << endl;
+    cout << "Shelf 0, Compartment 0: " << *libraryInventory[0][0] << endl;
+    cout << "Shelf 0, Compartment 1: " << *libraryInventory[0][1] << endl;
+    cout << endl;
+
+    //if an already checked out item is checked out
+    cout << "----------------------------------------" << endl;
+    cout << "             Error Handling             " << endl;
+    cout << "----------------------------------------" << endl;
+
+    // can someone fill this in
+
     
 
     // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the <b>lang</b> variable name to see how CLion can help you rename it.
