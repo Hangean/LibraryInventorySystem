@@ -5,6 +5,8 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -26,15 +28,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c59f08b8-aae9-482e-96b2-cd7e11f4d5a3" name="Changes" comment="">
+    <list default="true" id="c59f08b8-aae9-482e-96b2-cd7e11f4d5a3" name="Changes" comment="improve to meet the requirement; updated main.cpp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Helper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Helper.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryInventory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryInventory.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryInventory.h" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryInventory.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shelf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Shelf.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shelf.h" beforeDir="false" afterPath="$PROJECT_DIR$/Shelf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/items.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="2dd7805f-ac04-4064-8adb-d8f25efe04cb" />
+        <option name="activeSessionId" value="2727c17c-c0ac-4da5-8dbe-01a15e81d1d1" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -165,8 +160,18 @@
       <updated>1778371573140</updated>
       <workItem from="1778371575285" duration="42128000" />
       <workItem from="1778822350449" duration="348000" />
-      <workItem from="1778894555831" duration="12384000" />
+      <workItem from="1778894555831" duration="13744000" />
+      <workItem from="1779065496016" duration="1636000" />
     </task>
+    <task id="LOCAL-00001" summary="improve to meet the requirement; updated main.cpp">
+      <option name="closed" value="true" />
+      <created>1778909203765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778909203765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +182,10 @@
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
     <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="improve to meet the requirement; updated main.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="improve to meet the requirement; updated main.cpp" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
